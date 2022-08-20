@@ -6,4 +6,4 @@
 
 
 
-![Image alt](https://raw.githubusercontent.com/Feldub/images/main/doc_2022-08-20_15-55-19.webp)
+![Image alt](https://raw.githubusercontent.com/Feldub/images/main/doc_2022-08-20_15-55-19.webp?token=GHSAT0AAAAAABXUEHUJKJ64FK7N67PAHWAGYYA55MA)
