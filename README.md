@@ -6,4 +6,4 @@
 
 
 
-(https://github.com/Feldub/images/doc_2022-08-20_15-55-19.webp)
+![Image alt](https://github.com/Feldub/images/raw/doc_2022-08-20_15-55-19.webp)
