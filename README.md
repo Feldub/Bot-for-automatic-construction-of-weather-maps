@@ -3,3 +3,7 @@
 
 * Bot for automatic construction of weather maps.ipnyb - блокнот с кодом
 * https://mydata.biz/ru/catalog/databases/borders_ru - файл geojson с административными границами субъектов РФ был взят из этого набора данных.
+
+
+
+![Image alt](https://github.com/Feldub/images/doc_2022-08-20_15-55-19.webp)
