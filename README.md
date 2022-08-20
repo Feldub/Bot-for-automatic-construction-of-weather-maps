@@ -7,5 +7,5 @@
 
 **Примеры карт:**
 
-![Image alt](https://raw.githubusercontent.com/Feldub/images/main/doc_2022-08-20_15-55-19.webp?token=GHSAT0AAAAAABXUEHUJKJ64FK7N67PAHWAGYYA55MA)
+![Image alt](https://raw.githubusercontent.com/Feldub/images/main/doc_2022-08-20_17-34-43.webp?token=GHSAT0AAAAAABXUEHUJ2ODNGB2J3U4YSRZAYYA6FZA)
 ![Image alt](https://raw.githubusercontent.com/Feldub/images/main/doc_2022-08-20_15-55-20.webp?token=GHSAT0AAAAAABXUEHUIC7FQKYC6WQLOPN56YYA567A)
